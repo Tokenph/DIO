@@ -1,26 +1,42 @@
-# Pizza de Marguerita :pizza:
+# Pizza de Calabresa :pizza:
 
 ## Ingredientes
 
-- Não sei fazer
-- Agora deu fome
-- Meu deus eu to com fome
-- Mas eu não tenho dinheiro
-- E agora jose
-- Fodse
+#### MASSA:
 
+- 500 g de farinha de trigo
+- 25 g de fermento para pão
+- 1 copo de água
+- 1 ovo
+- 50 g de gordura
+- 1 colher de sopa de fermento em pó
+- 1 colher de café de sal
 
+#### MOLHO:
 
-### Modo de Preparo
+- 300 g de tomate maduro
+- 50 g de queijo parmesão ralado
+- Sal
+- Orégano
+- 1 colher de sopa de azeite de oliva
 
-- Ja falei que não sei fazer
+### MODO DE PREPARO:
 
-- Abrir o app
+#### MOLHO:
 
-- Procurar o nome da pizzaria
+1. Bata o tomate no liquidificador com os demais ingredientes até formar uma mistura homogênea.
 
-- Realizar o pedido
+#### MASSA: 
 
-- E esperar chegar :laughing:
+1. Misture 50 g de farinha, fermento e um pouco de água.
+2. Deixe descansar por 20 minutos. Adicione os demais ingredientes e amasse até obter uma massa bem macia.
+3. Corte em 3 partes iguais, forme 3 bolas e cubra-as com um pano.
+4. Deixe descansar por 1 hora. Abra a massa com um rolo até obter 25 cm de diâmetro. Espalhe o molho de tomate por cima e leve para assar em forno pré-aquecido, a 180ºC, por 15 minutos.
+5. Retire e deixe esfriar.
 
-  
+#### COBERTURA:
+
+1. Espalhe a linguiça sobre o molho de tomate e cubra com a cebola.
+2. Decore com a azeitona e regue com azeite e orégano.
+3. Retorne ao forno por mais 10 minutos.
+4. Retire do forno e sirva imediatamente.

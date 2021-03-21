@@ -2,5 +2,5 @@
 
 ### Seja bem vindo ao meu livro de receitas!
 
-- Pizza
-- 
+- Pizza de Calabresa!
+
